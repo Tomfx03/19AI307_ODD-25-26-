@@ -26,11 +26,12 @@ To write a Java program that demonstrates the use of variables, data types, oper
 ## PROGRAM:
  ```
 /*
-Program to implement variables and Operators using Java
-Developed by: N.NAVYA SREE
-Register Number:212223040138
+Program to implement a conditional statement using Java
+Developed by: Tom francies xaviour L
+Register Number:21222311060
 */
 ```
+
 
 ## Sourcecode.java:
 ```
