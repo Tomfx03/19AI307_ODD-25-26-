@@ -31,7 +31,7 @@ To write a Java program to demonstrate the **Observer Pattern**, where multiple 
 
 ## PROGRAM:
 
-
+```
 
 import java.util.*;
 
