@@ -31,7 +31,7 @@ Program to implement a conditional statement using Java
 Developed by: Tom francies xaviour L
 Register Number:21222311060
 */
-```
+
 import java.io.*;
 
 public class Main{
