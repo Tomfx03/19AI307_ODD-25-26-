@@ -19,16 +19,6 @@ To write a Java program that finds the absolute value of a given number using th
 
 
 
-## PROGRAM:
- ```
-/*
-Program to implement a Strings and Math Function using Java
-Developed by: N.NAVYA SREE
-Register Number:212223040138
-*/
-```
-
-
 ## SOURCE CODE:
 ```
 import java.util.*;
